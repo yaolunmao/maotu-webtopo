@@ -1,0 +1,34 @@
+<svg id="组_2" data-name="组 2" xmlns="http://www.w3.org/2000/svg" width="700" height="700" viewBox="0 0 700 700">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #00ccbd;
+        stroke-width: 20px;
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        font-size: 100px;
+      }
+
+      .cls-2, .cls-3 {
+        fill: #deea2e;
+        font-weight: 700;
+      }
+
+      .cls-3 {
+        font-size: 120px;
+      }
+    </style>
+  </defs>
+  <g id="组_1" data-name="组 1">
+    <path id="形状_1" data-name="形状 1" class="cls-1" d="M34.518,406.156S47.789,166,187.922,211.451c0,0,55.156,15.864,91.453,45.448,0,0,67.7-42.655,141.6,0"/>
+    <path id="形状_1_拷贝" data-name="形状 1 拷贝" class="cls-1" d="M665.493,406.156s-13.271-240.373-153.4-194.884c0,0-55.156,15.879-91.452,45.489,0,0-67.7-42.694-141.6,0"/>
+    <path id="形状_2" data-name="形状 2" class="cls-1" d="M117.921,306.109s9.026-64.564,74.891-32.1"/>
+    <path id="形状_2_拷贝" data-name="形状 2 拷贝" class="cls-1" d="M581.357,306.589s-9-65.089-74.668-32.357"/>
+    <text id="ao" class="cls-2" transform="translate(124.132 368.651) scale(0.823)">ao</text>
+    <text id="tu" class="cls-2" transform="translate(482.948 368.651) scale(0.823)">tu</text>
+  </g>
+  <text id="M_A_O_T_U" data-name="M A O T U" class="cls-3" x="45.25" y="537.03">M A O T U</text>
+</svg>

@@ -1,0 +1,15 @@
+import { createApp } from 'vue';
+import App from './App.vue';
+import './assets/main.css';
+import router from './router/index';
+import MyButton from '@/components/test/my-button/index.vue';
+import MyInput from '@/components/test/my-input/index.vue';
+import CustomDemo from '@/components/test/custom-demo/index.vue';
+import PieCharts from '@/components/test/pie-charts/index.vue';
+const app = createApp(App);
+app.use(router);
+app.component('my-input', MyInput);
+app.component('my-button', MyButton);
+app.component('custom-demo', CustomDemo);
+app.component('pie-charts', PieCharts);
+app.mount('#app');
